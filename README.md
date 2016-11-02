@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/yelhady/scala-bcrypt.png?label=ready&title=Ready)](https://waffle.io/yelhady/scala-bcrypt)
 # Scala Bcrypt [![Build Status](https://secure.travis-ci.org/t3hnar/scala-bcrypt.svg)](http://travis-ci.org/t3hnar/scala-bcrypt) [![Version](https://img.shields.io/maven-central/v/com.github.t3hnar/scala-bcrypt_2.11.svg?label=version)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Acom.github.t3hnar%20AND%20scala-bcrypt)
 
 Scala Bcrypt is a scala friendly wrapper of [jBCRYPT](http://www.mindrot.org/projects/jBCrypt/)
